@@ -29,7 +29,7 @@ public class ProgramaMedia {
         if (media > 9) {
             System.out.println("Parabéns");
         } else {
-            System.out.println("Burrão em menó");
+            System.out.println("Melhore!");
         }
     }
     
