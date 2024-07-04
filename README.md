@@ -17,4 +17,4 @@
 
 # Como acessar os aplicativos em Swing
 
-Na aba <a href="https://github.com/devcarlosdaniel0/Curso-de-Java-Basico/tree/main/Aplicativos">aplicativos</a>. Lá estão os mais relevantes do curso.
+Na aba <a href="https://github.com/devcarlosdaniel0/Curso-de-Java-Basico/tree/main/Aplicativos" target="blank_">aplicativos</a> Lá estão os mais relevantes do curso.
